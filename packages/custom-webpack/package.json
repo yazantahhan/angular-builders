@@ -1,5 +1,5 @@
 {
-  "name": "@ionic-angular-builders/custom-webpack",
+  "name": "@angular-ionic-builders/custom-webpack",
   "version": "1.0.3",
   "description": "Custom webpack builders for Angular build facade. Allow to modify Angular build configuration without ejecting it",
   "main": "src/index.js",
