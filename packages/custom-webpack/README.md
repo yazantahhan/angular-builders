@@ -1,3 +1,6 @@
+This is a fork from meltedspark/angular-builders that supports Ionic. 
+You will be able to customize the Webpack build configuration with Ionic
+
 # Custom webpack [builders](#builders) for Angular build facade
 [![npm version](https://img.shields.io/npm/v/@angular-builders/custom-webpack.svg) ![npm](https://img.shields.io/npm/dm/@angular-builders/custom-webpack.svg)](https://www.npmjs.com/package/@angular-builders/custom-webpack)
 
