@@ -1,14 +1,14 @@
 {
   "name": "@angular-ionic-builders/custom-webpack",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Custom webpack builders for Angular build facade. Allow to modify Angular build configuration without ejecting it",
   "main": "src/index.js",
   "typings": "typings/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meltedspark/angular-builders/packages/custom-webpack"
+    "url": "https://github.com/meltedspark/angular-builders/tree/7.x.x/packages/custom-webpack"
   },
-  "author": "Evgeny Barabanov",
+  "author": "JeB Barabanov",
   "license": "MIT",
   "engines": {
     "node": ">=8.9"
